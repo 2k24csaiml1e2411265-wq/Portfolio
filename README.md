@@ -4,7 +4,7 @@ A single-page portfolio site, styled around a "model card" theme (dark, teal/amb
 
 ---
 Live Link:
-(portfolio)[https://2k24csaiml1e2411265-wq.github.io/Portfolio/]
+[portfolio](https://2k24csaiml1e2411265-wq.github.io/Portfolio/)
 ---
 
 ## Structure
