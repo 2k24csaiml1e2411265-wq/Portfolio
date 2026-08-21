@@ -2,6 +2,11 @@
 
 A single-page portfolio site, styled around a "model card" theme (dark, teal/amber, monospace data labels) — fitting for an AI/ML portfolio. Plain HTML/CSS/JS, no build step, no framework. Works as-is on GitHub Pages, Netlify, or Vercel.
 
+---
+Live Link:
+(portfolio)[https://2k24csaiml1e2411265-wq.github.io/Portfolio/]
+---
+
 ## Structure
 
 ```
